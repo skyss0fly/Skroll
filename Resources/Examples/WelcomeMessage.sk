@@ -1,0 +1,10 @@
+@on@ {player} *join* do:
+ send !broadcast! ^to^ {player}
+
+
+
+ ## @ for events @
+ ## { for variables }
+## ^ selector ^
+## * variable event task*
+## ! action the server executes
